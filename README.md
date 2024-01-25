@@ -16,8 +16,8 @@
  
 ### Redes para contato:
  
-<div target="_blank"> 
- <a href="https://api.whatsapp.com/send?phone=5551991204221&text=Vim%20através%20do%20seu%20Github" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-%030087B5?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+<div> 
+ <a target="_blank" href="https://api.whatsapp.com/send?phone=5551991204221&text=Vim%20através%20do%20seu%20Github"><img target="_blank" src="https://img.shields.io/badge/-Whatsapp-%030087B5?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
  <a href="https://www.linkedin.com/in/michael-bitencourt-932b02238" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href = "mailto:kaelbittencourt.business@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
