@@ -1,4 +1,4 @@
-## Welcome to the profile of kael Bittencourt 😁
+## Welcome to the profile of Mikael Bittencourt 😁
 
  <div>
    <a href="https://github.com/KaelBittencourt">
