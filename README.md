@@ -14,7 +14,7 @@
  
 <br>
  
-### Redes para contato:
+### Contatos comerciais
  
 <div> 
  <a href="https://api.whatsapp.com/send?phone=5551991204221&text=Vim%20através%20do%20seu%20Github" target="_blank" ><img src="https://img.shields.io/badge/-Whatsapp-%030087B5?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" ></a>
